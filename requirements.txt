@@ -1,0 +1,9 @@
+lapjv
+matplotlib
+motmetrics
+numpy
+torch
+torchvision
+scipy
+scikit-image
+pandas
